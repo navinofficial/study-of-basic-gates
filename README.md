@@ -63,9 +63,9 @@ Y= A⊕B
 
 
 ## PROGRAM
-# Developed by: NAVINKUMAR V
-# RegisterNumber: 212223230141
-
+## Developed by: NAVINKUMAR V
+## RegisterNumber: 212223230141
+```
 module basic_2(a,b,f1,f2,f3,f4,f5,f6,f7);
 input a,b;
 output f1,f2,f3,f4,f5,f6,f7;
@@ -77,6 +77,7 @@ assign f5=~f2;
 assign f6=a^b;
 assign f7=~(a^b);
 endmodule
+```
 
 ## Logic symbol & Truthtable
 ![truthtable](https://github.com/user-attachments/assets/8298f2fa-2c6d-4995-a72c-a48f30d4e559)
