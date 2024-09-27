@@ -63,8 +63,8 @@ Y= A⊕B
 
 
 **PROGRAM**
-###Developed by: NAVINKUMAR V
-##RegisterNumber: 212223230141
+### Developed by: NAVINKUMAR V
+### RegisterNumber: 212223230141
 
 module basic_2(a,b,f1,f2,f3,f4,f5,f6,f7);
 input a,b;
